@@ -1,0 +1,19 @@
+{
+  "name": "Lance的工作台",
+  "short_name": "Lance",
+  "description": "班主任兼英语老师的个人工作台",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef2e6",
+  "theme_color": "#7d9471",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
